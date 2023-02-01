@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ks-ecommerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/Ksteed8859/E-Commerce-Backend"
   },
   "keywords": [],
   "author": "",
